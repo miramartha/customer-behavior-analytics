@@ -86,7 +86,8 @@ Kumpulan query analisis:
 
 ###  Google Colab Notebook
 Buka notebook: 
-(notebook/customer_shopping_analysis_full.ipynb)
+- [Customer Shopping Analysis Full Notebook](notebook/customer_shopping_analysis_full.ipynb)
+
 Lalu jalankan sel satu per satu.
 
 ### 2. SQL
