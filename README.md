@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/miramartha/customer-shopping-analysis/main/assets/header.png" width="100%" />
-</p>
-
 # 🛍️ Customer Shopping Behavior Analysis
 Analisis ini bertujuan untuk memahami pola belanja pelanggan menggunakan dataset Shopping Trends.  
 Proyek ini dirancang untuk menunjukkan kemampuan saya dalam melakukan Exploratory Data Analysis (EDA), visualisasi data, dan analisis deskriptif yang relevan untuk posisi Data Analyst.
